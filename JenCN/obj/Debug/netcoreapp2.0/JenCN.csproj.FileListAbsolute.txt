@@ -1,0 +1,11 @@
+C:\Users\mounika\source\repos\JenCN\JenCN\bin\Debug\netcoreapp2.0\JenCN.deps.json
+C:\Users\mounika\source\repos\JenCN\JenCN\bin\Debug\netcoreapp2.0\JenCN.runtimeconfig.json
+C:\Users\mounika\source\repos\JenCN\JenCN\bin\Debug\netcoreapp2.0\JenCN.runtimeconfig.dev.json
+C:\Users\mounika\source\repos\JenCN\JenCN\bin\Debug\netcoreapp2.0\JenCN.dll
+C:\Users\mounika\source\repos\JenCN\JenCN\bin\Debug\netcoreapp2.0\JenCN.pdb
+C:\Users\mounika\source\repos\JenCN\JenCN\obj\Debug\netcoreapp2.0\JenCN.csprojResolveAssemblyReference.cache
+C:\Users\mounika\source\repos\JenCN\JenCN\obj\Debug\netcoreapp2.0\JenCN.csproj.CoreCompileInputs.cache
+C:\Users\mounika\source\repos\JenCN\JenCN\obj\Debug\netcoreapp2.0\JenCN.AssemblyInfoInputs.cache
+C:\Users\mounika\source\repos\JenCN\JenCN\obj\Debug\netcoreapp2.0\JenCN.AssemblyInfo.cs
+C:\Users\mounika\source\repos\JenCN\JenCN\obj\Debug\netcoreapp2.0\JenCN.dll
+C:\Users\mounika\source\repos\JenCN\JenCN\obj\Debug\netcoreapp2.0\JenCN.pdb
