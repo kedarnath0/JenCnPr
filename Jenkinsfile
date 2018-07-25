@@ -1,11 +1,10 @@
 #!/usr/bin/env groovy
 
 node {
-  stage('Message') {
-    echo 'Hello World Test'
+    checkout scm
+    stash 'everything'
     dir('JenCN') {
-        echo 'before dotnet restore'
-	bat 'dotnet restore'
+      bat 'dotnet restore'
+      // bat "dotnet build --version-suffix ${env.BUILD_NUMBER}"
     }
   }
-}
