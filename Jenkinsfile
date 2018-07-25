@@ -3,6 +3,9 @@
 node {
   stage('Message') {
     echo 'Hello World Test'
-    bat 'dotnet restore'    
+    dir('') {
+        echo 'before dotnet restore'
+	bat 'dotnet restore'
+    }
   }
 }
